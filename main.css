@@ -57,3 +57,5 @@ img{
 #apply_row{
     margin-top: 5%;
 }
+html{
+    scroll-behavior : smooth ;
