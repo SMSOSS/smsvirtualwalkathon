@@ -1,3 +1,58 @@
-main {
-    
+#card1{
+    background-color: black;
+    height : 200px ; 
+}
+
+#card2{
+    background-color : rgb(225,239,242);
+    height : 200px ; 
+}
+
+#apply{
+    background-color: rgb(241, 241,241);
+    width : 90% ;
+}
+#about{
+    background-color: rgb(241, 241,241);
+    width : 100%;
+    margin-bottom: 5%;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+#apply2{
+    width : 90%;
+    margin-bottom: 5%;
+}  
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+img{
+    width:100%;
+    height: auto;
+}
+
+#apply_title{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#intro_title{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.about_image{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-top: 5%;
+}
+
+#apply_row{
+    margin-top: 5%;
 }
