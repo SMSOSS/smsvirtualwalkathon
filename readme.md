@@ -6,7 +6,7 @@
 
 ## How to use ##
 ### 1. Open the webiste  ###
-- template website [link](http://bitly.com/98K8eH)
+- template website [link](https://smsmal.wixsite.com/smsvirtualwalkathon)
 
 
 ## Work In Progress ##
