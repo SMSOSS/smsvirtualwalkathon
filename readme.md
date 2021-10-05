@@ -1,8 +1,8 @@
-# SMS Robot Team project - robot_team_website #
+# SMS Robot Team project - smsvirtualwalkathon #
 
 
 ## Aim ##
-- Increase the running speed of the 9 min run program by changing the programming language from python to cython
+- create website for sms virtual walkathon(idk what is this too lol)
 
 ## How to use ##
 ### 1. Open the webiste  ###
